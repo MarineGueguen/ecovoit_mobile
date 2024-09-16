@@ -1,7 +1,7 @@
 {
 	"expo": {
-		"name": "2209-wns-hamilton-ecovoit-mobile",
-		"slug": "2209-wns-hamilton-ecovoit-mobile",
+		"name": "ecovoit_mobile",
+		"slug": "ecovoit_mobile",
 		"jsEngine": "hermes",
 		"version": "1.0.0",
 		"orientation": "portrait",
