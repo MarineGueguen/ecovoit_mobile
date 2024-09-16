@@ -1,4 +1,4 @@
-# EcoVoit - Front-end
+# EcoVoit - Mobile
 
 ## Introduction
 
